@@ -1,9 +1,0 @@
-from flask import Flask
-app = Flask(homing)
-
-@app.route('/')
-def hello_world():
-    return 'Hello World!'
-
-if Homing == main:
-    app.run()
