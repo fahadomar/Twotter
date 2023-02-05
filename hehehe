@@ -5,5 +5,5 @@ app = Flask(homing)
 def hello_world():
     return 'Hello World!'
 
-if Homing == '__main__':
+if Homing == main:
     app.run()
